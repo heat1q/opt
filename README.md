@@ -2,8 +2,7 @@
 
 This package implements a Rust styled `Option` type for optional values in Go. 
 `Option` provides a wrapper around a value that may or may not be initialized 
-and a set of methods to extract the inner value or handle...
-* Nullable pointers
+and a set of methods to extract the inner value or handle nil cases.
 
 
 ## Usage
